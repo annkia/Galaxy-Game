@@ -1,0 +1,14 @@
+#space-base {
+	position: absolute; 
+	height: 572px;
+	width: 800px;
+	background-repeat: no-repeat;
+	
+}
+#space-ufo {
+	position: absolute; 
+	height: 128px;
+	width: 128px;
+	background-repeat: no-repeat;
+	top:200px;
+}
